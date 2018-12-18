@@ -13,6 +13,8 @@
 		088875AA21C9353500B399DA /* AppStore.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 088875A821C9353500B399DA /* AppStore.xcdatamodeld */; };
 		088875AC21C9353600B399DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 088875AB21C9353600B399DA /* Assets.xcassets */; };
 		088875AF21C9353600B399DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 088875AD21C9353600B399DA /* LaunchScreen.storyboard */; };
+		088875B821C9415C00B399DA /* 1597943.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 088875B621C9415B00B399DA /* 1597943.jpg */; };
+		088875B921C9415C00B399DA /* 1712994.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 088875B721C9415C00B399DA /* 1712994.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		088875AB21C9353600B399DA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		088875AE21C9353600B399DA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		088875B021C9353600B399DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		088875B621C9415B00B399DA /* 1597943.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1597943.jpg; sourceTree = "<group>"; };
+		088875B721C9415C00B399DA /* 1712994.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1712994.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				088875A321C9353500B399DA /* ViewController.swift */,
 				088875A521C9353500B399DA /* Main.storyboard */,
 				088875AB21C9353600B399DA /* Assets.xcassets */,
+				088875B621C9415B00B399DA /* 1597943.jpg */,
+				088875B721C9415C00B399DA /* 1712994.jpg */,
 				088875AD21C9353600B399DA /* LaunchScreen.storyboard */,
 				088875B021C9353600B399DA /* Info.plist */,
 				088875A821C9353500B399DA /* AppStore.xcdatamodeld */,
@@ -125,6 +131,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				088875B921C9415C00B399DA /* 1712994.jpg in Resources */,
+				088875B821C9415C00B399DA /* 1597943.jpg in Resources */,
 				088875AF21C9353600B399DA /* LaunchScreen.storyboard in Resources */,
 				088875AC21C9353600B399DA /* Assets.xcassets in Resources */,
 				088875A721C9353500B399DA /* Main.storyboard in Resources */,
